@@ -8,7 +8,7 @@
 ![Model](https://img.shields.io/badge/model-Graph--Mamba-1e6091)
 ![Year](https://img.shields.io/badge/year-2026-6c757d)
 
-### Heterogeneous graph learning with Mamba for TCR-epitope binding prediction
+### Heterogeneous Graph Learning with Mamba for TCR-Epitope Binding Prediction
 
 </div>
 

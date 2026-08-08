@@ -2,11 +2,11 @@
 
 # GraphTCR-Mamba
 
-![Status](https://img.shields.io/badge/status-submitted%20to%20PSB-blueviolet)
+![Status](https://img.shields.io/badge/Status-submitted%20to%20PSB-blueviolet)
 ![Institution](https://img.shields.io/badge/Algoma%20University-CS%20%26%20Math-b30000)
-![Datasets](https://img.shields.io/badge/datasets-IEDB%20%7C%20VDJdb%20%7C%20McPAS--TCR-2e8b57)
-![Model](https://img.shields.io/badge/model-Graph--Mamba-1e6091)
-![Year](https://img.shields.io/badge/year-2026-6c757d)
+![Datasets](https://img.shields.io/badge/Datasets-IEDB%20%7C%20VDJdb%20%7C%20McPAS--TCR-2e8b57)
+![Model](https://img.shields.io/badge/Model-Graph--Mamba-1e6091)
+![Year](https://img.shields.io/badge/Year-2026-6c757d)
 
 ### Heterogeneous Graph Learning with Mamba for TCR-Epitope Binding Prediction
 

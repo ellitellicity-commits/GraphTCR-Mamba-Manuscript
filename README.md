@@ -16,7 +16,9 @@
 
 This repository holds the manuscript, results, and supporting materials for *GraphTCR-Mamba*, a heterogeneous graph framework for predicting T-cell receptor (TCR) to epitope binding. The work was completed during the summer of 2026 in the Department of Computer Science and Mathematics at Algoma University, and has been submitted to PSB for peer review.
 
-Ellison Naz and Adam Fan developed the project under the supervision of Dr. Ping Luo, with contributions from Wenjun Lin. Corresponding author: Ping Luo, ping.luo@algomau.ca.
+Ellison Naz and Adam Fan developed the project under the supervision of Dr. Ping Luo, with contributions from Wenjun Lin. 
+
+**Corresponding author: Ping Luo, ping.luo@algomau.ca**
 
 <br>
 
@@ -34,9 +36,9 @@ Ellison Naz and Adam Fan developed the project under the supervision of Dr. Ping
 
 ## The Problem
 
-T-cell receptors recognize peptide epitopes as part of adaptive immunity, but experimentally validating which TCRs bind which epitopes is slow and expensive. Only a small fraction of the possible interaction space has ever been characterized in the lab. Computational models fill that gap by learning from known interactions to prioritize candidates worth testing.
+T-cell receptors recognize peptide epitopes in adaptive immunity, but experimentally validating which TCRs bind which epitopes is slow and expensive. Only a small fraction of the possible interaction space has ever been characterized in the lab. Computational models fill that gap by learning from known interactions to prioritize candidates worth testing.
 
-Most existing methods treat each TCR-epitope pair in isolation, missing out on relational signal between sequences that behave similarly. GraphTCR-Mamba takes a different approach: it builds a heterogeneous graph over TCRs and epitopes, connects sequences by similarity, and layers in a Mamba selective state-space branch so information can propagate efficiently across the whole graph rather than pair by pair.
+Most existing methods treat each TCR-Epitope pair in isolation, missing out on relational signal between sequences that behave similarly. GraphTCR-Mamba takes a different approach: it builds a heterogeneous graph over TCRs and epitopes, connects sequences by similarity, and layers in a Mamba selective state-space branch so information can propagate efficiently across the whole graph rather than pair by pair.
 
 <br>
 
@@ -107,6 +109,6 @@ This work is supported by the Algoma University Research Fund. Thank you to Dr. 
 
 <div align="center">
 
-*Keywords: T cell receptor · heterogeneous graph · TCR-epitope prediction · Mamba · Laplacian positional encoding*
+*Keywords: T-cell Receptor · Heterogeneous Graph · TCR-Epitope Prediction · Mamba · Laplacian Positional Encoding*
 
 </div>
